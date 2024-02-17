@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+  } 
+
+  .dididididididididididi{
+    font-size:40px; 
+ display: flex;
+    justify-content: center;
+    margin-top: 17%;
+  }
+
+  .jaujicu{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px
+    
+  }
+  .butoanu{
+    display: flex; 
+    justify-content: center;
+    margin-top: 20px
+
+  }
+  .button {
+    border: none;
+    color: white;
+    padding: 15px 82px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+
+  }
+  .button1 {background-color: Orange; } /* Green */
+  

@@ -1,0 +1,384 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+  } 
+  .body{
+    display: flex;
+    justify-content: center;
+  }
+  .text{
+      display: flex;
+      justify-content: center;
+  }
+  .button{ 
+    
+      display: flex;
+      justify-content: center;
+  }
+
+.trugiababu{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  
+}
+.trugiabebo{
+  text-decoration: none;
+  color: black;
+}
+
+.ttr{
+
+   height:50px ;
+   width: 25px;
+
+}
+.cube{
+  background-color: rgb(202, 187, 187);
+height:700px ;
+width: 900px;
+padding: 70px;
+margin: 0px;
+}
+
+.sorting{
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+  
+}
+.umagudebi{
+  margin: 30px;
+}
+.button{
+  margin: 90px;
+  color: Orange;
+}
+.textt{
+    display: flex;
+    justify-content: center;
+    font-size:100px; 
+    font-weight:bold; 
+    color:black;
+   
+}
+.image{
+  display: flex;
+  justify-content: flex-end;
+  margin: 50px;
+width: 400px;
+}
+.imagee{
+  display: flex;
+  width: 900PX;
+  margin-left: auto;
+margin-top: 0px;
+flex-direction: column;
+align-items: center;
+}
+.icon{
+  margin-left: 1700px;
+  height:50px ;
+  width: 25px;
+}
+.facebuk{
+  margin-left: 1700px;
+  height:50px ;
+  width: 25px;
+}
+.tveac{
+  margin-left: 1700px;
+  height:50px ;
+  width: 25px;
+  
+}
+.instagram{
+  margin-left: 1700px;
+ 
+  width: 25px;
+}
+.coment{
+   margin-left: 1800px;
+  height:400px ;
+  width: 400px;
+}
+.HOME{
+ margin: 0 auto;
+ display: flex;
+ justify-content: space-around;
+ gap: 50px;
+flex-direction: row;
+align-items: center;
+height: 80px;
+text-decoration: none;
+color: black;
+}
+.bd-links-linkd-inline-blockrounded{
+  margin-left: 800px;
+  margin-top: 4000px;
+  padding: 10px;
+  padding: 0.1875rem 0.5rem;
+  margin-top: 0.125rem;
+  margin-left: 1.125rem;
+  color: var(--bs-body-color);
+  text-decoration: none;
+  height: 20px;
+  width: 40px;
+}
+.euu{
+  display: flex;
+justify-content: center;
+  font-size:50px; 
+}
+.dididiv{
+
+display: flex;
+justify-content: center;
+}
+.omg{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100px;
+}
+.levani{
+  font-family: cursive;
+  transform: rotate(380deg);
+  margin-left: 180px;
+  font-size: 30px;
+}
+.sop{
+  position: fixed;
+  height: 550px;
+  width: 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.iminent{
+  margin-top: 90px;
+  display: flex;
+  justify-content: end;
+  width: 100%;
+}
+
+.nugia{
+  width: 40px;
+  height: 40px;
+}
+.janjafili{
+  margin-top: 320px;
+  color: black;
+}
+
+.koki{
+  color: black;
+}
+
+.ol{
+  color: black;
+}
+.uxraru{
+background-color: black;
+}
+.sopingilatuar{
+  width: 100%;
+  display: flex;
+}
+
+.omg{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 50%;
+}
+
+.vaimee{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.auri{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.dimpitauri{
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 1300px;
+}
+
+.buynow{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.isi{
+  margin-left: 400px;
+  margin-top: -200px;
+  margin-bottom: 300px;
+}
+.auuradznelia{
+  display: flex;
+  justify-content: center;
+
+}
+.taha{
+  color: Orange;
+  margin-top: 10px;
+}
+.patronaa{
+  height: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+      margin-left: 800px;
+    margin-top: 4000px;
+    padding: 10px;
+    padding: 0.1875rem 0.5rem;
+    margin-top: 0.125rem;
+    margin-left: 1.125rem;
+    color: var(--bs-body-color);
+    text-decoration: none;
+   
+}
+.zviadauri{
+  width: 50px;
+  height: 40px;
+  border: 1px solid black;
+  color: white;
+  background-color: black;
+  margin: 30px;
+}
+.kaktusie{
+  width: 100%;
+  height: 400px;
+  background-color: rgb(189, 182, 182);
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  
+  }
+  .jambulkie{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      }
+      .kvevite{
+   color: white;
+   display: flex;
+   flex-direction: row;
+   width: 70%;
+   text-align: center;
+   justify-content: space-between;
+          
+}
+.ligikurie{
+   width: 20%;
+   height: 150px;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+            color: black;
+   }
+.traktorisbeboe{
+  font-size: 50px;
+}
+.gizoiasimone{
+  font-size: 55px;
+  
+}
+.cunculabeboe{
+  color: rgb(216, 66, 66);
+
+}
+.kaktusi{
+  width: 100%;
+  height: 400px;
+  background-color: rgb(20, 20, 20);
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  
+  }
+  .kvevit{
+  color: white;
+  display: flex;
+  flex-direction: row;
+  width: 70%;
+  text-align: center;
+  justify-content: space-between;
+  
+  }
+  .ligikuri{
+    width: 20%;
+  height: 180px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  
+  }
+  .serch{
+    background-color: rgb(20, 20, 20);
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    color: white;
+  }
+  .serch:hover{
+    border-bottom: 3px  solid white;
+  }
+  .buttonn{
+    border: 2px solid white;
+    text-decoration: none;
+    color: white;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+  }
+  .buttonn:hover{
+    background-color: red;
+    border: 0px;
+  }
+  
+  .jambulki{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  }
+  .tuagi{
+    display: flex;
+    flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+  }
+  
+  .titanikis{
+    border: 1px solid white;
+    height: 3px;
+    width: 1500px;
+  margin-top: 50px;
+  }
+  .bolotextisnarceni{
+    color: white;
+    margin-top: 20px;
+  }
+  .color{
+    color: white;
+  }
